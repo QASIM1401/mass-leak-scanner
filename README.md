@@ -1,4 +1,4 @@
-# Mass Leak Scanner v2.3
+# Mass Leak Scanner
 
 Ultra fast mass scanner for finding exposed `.env`, `.git`, `phpinfo`, and other sensitive files.
 
